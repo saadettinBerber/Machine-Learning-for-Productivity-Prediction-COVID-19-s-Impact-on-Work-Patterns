@@ -1,6 +1,6 @@
 # Machine-Learning-for-Productivity-Prediction-COVID-19-s-Impact-on-Work-Patterns
 
-Hayatımıza Covid-19 hastalığı girdiğinde dünya düzeninde çok büyük değişimler oldu. En büyük değişimini nasbini alan şeylerden biri tabi profesyonel çalışma alanlarında oldu. Birçok insan evden çalışmak zorunda kaldı ya da bazı meslekler haftanın bazı günleri işe gidebildi. Bizim veri setimiz ise değişen iş koşullarına karşılık insanların hayatına etkisi nasıl olduğuna dair bilgiler içermektedir. İnsan hayatına etkisini 15 tane özellik(sütun) ile ifade etmişler ve veri seti setinde 10.000 tane örnek kişi bulunmaktadır. Özellikleri incelediğimiz zaman:
+Hayatımıza Covid-19 hastalığı girdiğinde dünya düzeninde çok büyük değişimler oldu. En büyük değişiminden nasibii alan alanlardan biri tabi iş hayatı oldu. Birçok insan evden çalışmak zorunda kaldı ya da bazı meslekler haftanın bazı günleri işe gidebildi. Bizim veri setimiz ise değişen iş koşullarına karşılık insanların hayatına etkisi nasıl olduğuna dair bilgiler içermektedir. İnsan hayatına etkisini 15 tane özellik(sütun) ile ifade etmişler ve veri seti setinde 10.000 tane örnek kişi bulunmaktadır. Özellikleri incelediğimiz zaman:
 
 - Increased_Work_Hours: Pandemi ile birlikte mesai saati artmışsa 1 ile ifade edilmiş ya da değişmemişse ve azalmışsa 0 ile ifade edilmiş.
 -  Work_From_Home: Pandemi ile birlikte evden çalışma düzenine geçilmişse 1 ile ifade edilir geçilmemişse 0 ile ifade edilir.
@@ -16,3 +16,8 @@ Hayatımıza Covid-19 hastalığı girdiğinde dünya düzeninde çok büyük de
 -  Salary_Changes: Pandemide maaş değişiklikleri olmuşsa 1 ile değişmemişse 0 ile ifade edilir.
 -  Team_Collaboration_Challenges: Pandemi sırasında takım çalışmalarında insanlar zorlanması 1 ile ifade edilmesidir.
 -  Sector: Bireyin hangi sektörde çalıştığını ifade eder.
+  -Healthcare
+  -IT
+  -Education
+  -Retail
+-Affected_by_Covid: İnsan Covid-1'den kaynaklı olarak iş hayatı etkilenmişse 1 olarak ifade edilmiş.
