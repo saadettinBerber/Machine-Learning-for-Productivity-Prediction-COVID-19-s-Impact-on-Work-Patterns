@@ -16,8 +16,8 @@ Hayatımıza Covid-19 hastalığı girdiğinde dünya düzeninde çok büyük de
 -  Salary_Changes: Pandemide maaş değişiklikleri olmuşsa 1 ile değişmemişse 0 ile ifade edilir.
 -  Team_Collaboration_Challenges: Pandemi sırasında takım çalışmalarında insanlar zorlanması 1 ile ifade edilmesidir.
 -  Sector: Bireyin hangi sektörde çalıştığını ifade eder.
-  -Healthcare
-  -IT
-  -Education
-  -Retail
+  - Healthcare
+  -  IT
+  -  Education
+  -  Retail
 -Affected_by_Covid: İnsan Covid-1'den kaynaklı olarak iş hayatı etkilenmişse 1 olarak ifade edilmiş.
